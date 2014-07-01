@@ -74,3 +74,12 @@ naturalSort.insensitive = true;
 ['a', 'B'].sort(naturalSort);
 // ['a', 'B']
 ```
+
+## Authors
+* Original Author: Jim Palmer (based on chunking idea from Dave Koelle)
+* Optimizations and safari fix by Mike Grier (mgrier.com)
+* Scientific notation and alphanumeric sorting fixes by @Mottie
+
+## Original code
+* https://code.google.com/p/js-naturalsort/  
+* https://github.com/overset/javascript-natural-sort
