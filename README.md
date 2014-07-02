@@ -83,3 +83,4 @@ naturalSort.insensitive = true;
 ## Original code
 * https://code.google.com/p/js-naturalsort/  
 * https://github.com/overset/javascript-natural-sort
+* http://www.overset.com/2008/09/01/javascript-natural-sort-algorithm/
