@@ -1,10 +1,10 @@
 {
   "name": "naturalSort.js",
-  "main": "naturalSort.js",
+  "main": "dist/naturalSort.js",
   "version": "0.7.0",
   "homepage": "https://github.com/jarinudom/naturalSort.js",
   "authors": [
-    "Jarin Udom <jarin@robotmodehq.com"
+    "Jarin Udom <jarin@robotmodehq.com>"
   ],
   "description": "Natural order string sorting function for JavaScript",
   "keywords": [
